@@ -6,7 +6,6 @@ The use of Glide Library.
 
 What's Glide Library ? 
 
--- Glide is an image Loader Library for Android recommended by Google.
--- An Image loading and caching library.
+--> Glide is an image Loader Library for Android recommended by Google ( An Image loading and caching library )
 
 
